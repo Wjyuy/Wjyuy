@@ -24,20 +24,19 @@
         <img src="https://img.shields.io/badge/SpringSecurity-6dd33f?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/JSP/Servlet-d3d3d3?style=flat-square&logoColor=black" />
         <img src="https://img.shields.io/badge/MyBatis-b61a20?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/JPA:Hibernate-59666C?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logoColor=white" />
       </td>
     </tr>
     <tr>
       <th>
-        DB
+        DB/Framework
       </th>
       <td>
         <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/postgresql-003545?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/nextdotjs-003545?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/nodedotjs-003545?style=flat-square&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -47,6 +46,7 @@
       <td>
         <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logoColor=black" />
         <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/typescript-f7df1e?style=flat-square&logoColor=black" />
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logoColor=black" />
         <img src="https://img.shields.io/badge/Ajax-4e9ece?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML/CSS-e34f26?style=flat-square&logoColor=white" />
@@ -59,13 +59,9 @@
       <td>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white" />
-        <img src="https://img.shields.io/badge/DBeaver-836d5e?style=flat-square&logo=dbeaver&logoColor=black" />
-        <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" />
         <img src="https://img.shields.io/badge/VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
         <img src="https://img.shields.io/badge/STS-6dd33f?style=flat-squar&logo=spring&logoColor=black" />
         <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=eclipseide&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black" />
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
         <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black" />
       </td>
