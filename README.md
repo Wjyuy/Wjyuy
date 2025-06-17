@@ -6,9 +6,8 @@
 
 ### 📬 Find me at
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/jang-won-park/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:zhzhwm@gmail.com)](mailto:zhzhwm@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://dnwndus.tistory.com/)](https://dnwndus.tistory.com/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=tistory&link=https://dnwndus.tistory.com/)](https://dnwndus.tistory.com/) 
 
 <!--
 
