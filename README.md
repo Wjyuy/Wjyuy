@@ -80,21 +80,6 @@
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wjyuy&layout=compact&exclude_repo=python-practice" />
 </div>
 
-<a href="https://github.com/Wjyuy?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-</a>
-</a>
-<a href="https:/Wjyuy.github.io/">
-  <img src="https://img.shields.io/badge/GitHub Pages-2088FF?style=flat-square&logo=GitHub&logoColor=white" />
-</a>
-<a href="https://velog.io/@92miindy/posts">
-  <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white" />
-</a>
-<a href="https://Wjyuy.notion.site/f873e1b3db85412c8342fb213c744d2b">
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black" />
-</a>
-<br/>
-
 <!--
 
 <h3 align="center">✨ Tech Stack ✨</h3>
