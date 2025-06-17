@@ -1,7 +1,17 @@
 ## Hi there 👋
 
+### 🚀 Things I do
 
-<!--내용 부분-->
+- **NLP Engineer**, contributing on **Korean NLP** with Open Source!
+
+### 📬 Find me at
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/jang-won-park/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:zhzhwm@gmail.com)](mailto:zhzhwm@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://dnwndus.tistory.com/)](https://dnwndus.tistory.com/) 
+
+<!--
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -62,6 +72,6 @@
   </a>
 </div>
 
-
+-->
 
 
