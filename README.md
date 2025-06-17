@@ -1,8 +1,11 @@
-### About me 
+### 😊 About me 
+- Spring Boot web service implementation is possible, including legacy Java web projects (JSP/Servlet).
+- Based on an understanding of web service operation, I have experience implementing REST API and CRUD, authentication/authorization, search, etc. functions and developing using Open API.
+- I am not afraid of new things, and I like planning and exploring based on metacognition.
 
 ### 🚀 Things I do
 
-- **NLP Engineer**, contributing on **Korean NLP** with Open Source!
+- **Full-Stack Developer** who strives to master the entire stack!
 
 ### 📬 Find me at
 
@@ -69,7 +72,7 @@
   </table>
   <br/><br/>
 
-### 📫 My channels
+### ✨ My channels
 
 <div align=left >
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=Wjyuy&show_icons=true" />
