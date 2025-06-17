@@ -38,8 +38,8 @@
         <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/postgresql-003545?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/nextdotjs-003545?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/nodedotjs-003545?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/nextjs-003545?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/nodejs-003545?style=flat-square&logoColor=white" />
       </td>
     </tr>
     <tr>
