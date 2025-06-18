@@ -25,14 +25,13 @@
         <img src="https://img.shields.io/badge/Spring-6dd33f?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/SpringBoot-6dd33f?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/SpringSecurity-6dd33f?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/JSP/Servlet-d3d3d3?style=flat-square&logoColor=black" />
         <img src="https://img.shields.io/badge/MyBatis-b61a20?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" />
       </td>
     </tr>
     <tr>
       <th>
-        DB/Framework
+        DB&Framework&Runtime	
       </th>
       <td>
         <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logoColor=white" />
@@ -47,6 +46,7 @@
         Front-End
       </th>
       <td>
+        <img src="https://img.shields.io/badge/JSP/Servlet-d3d3d3?style=flat-square&logoColor=black" />
         <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logoColor=black" />
         <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logoColor=black" />
         <img src="https://img.shields.io/badge/typescript-f7df1e?style=flat-square&logoColor=black" />
