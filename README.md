@@ -24,7 +24,6 @@
         <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring-6dd33f?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/SpringBoot-6dd33f?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/SpringSecurity-6dd33f?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/MyBatis-b61a20?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" />
       </td>
