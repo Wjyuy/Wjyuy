@@ -11,7 +11,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:zhzhwm@gmail.com)](mailto:zhzhwm@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=tistory&link=https://dnwndus.tistory.com/)](https://dnwndus.tistory.com/) 
-[![Discord Channel](http://img.shields.io/badge/-Tech%20blog-purple?style=flat&logo=discord&link=https://discord.gg/uJtREc3n)](https://discord.gg/uJtREc3n)
+[![Discord Channel](http://img.shields.io/badge/-Discord%20Channel-blue?style=flat&logo=discord&link=https://discord.gg/uJtREc3n)](https://discord.gg/uJtREc3n)
 
 
 ### 🔧 Skills
