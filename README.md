@@ -1,7 +1,10 @@
 ### 😊 About me 
-- Spring Boot web service implementation is possible, including legacy Java web projects (JSP/Servlet).
-- Based on an understanding of web service operation, I have experience implementing REST API and CRUD, authentication/authorization, search, etc. functions and developing using Open API.
-- I am not afraid of new things, and I like planning and exploring based on metacognition.
+- Experienced in implementing web services using Spring Boot, as well as maintaining legacy Java web projects with JSP/Servlet.
+- With a solid understanding of web service architecture, I have developed REST APIs, CRUD operations, authentication/authorization, search features, and Open API integrations.
+- I enjoy learning new technologies and approaching challenges with a metacognitive mindset focused on planning and exploration.
+
+- Recently, I developed and deployed a personal portfolio website to showcase my projects and skills.
+[portfolio](https://portfolio-web-two-omega.vercel.app/)
 
 ### 🚀 Things I do
 
