@@ -1,13 +1,14 @@
+
+### 🚀 What I Do
+
+Full-Stack Developer striving to master both frontend and backend development through continuous hands-on experience.
+
 ### 😊 About me 
 - Experienced in implementing web services using Spring Boot, as well as maintaining legacy Java web projects with JSP/Servlet.
 - With a solid understanding of web service architecture, I have developed REST APIs, CRUD operations, authentication/authorization, search features, and Open API integrations.
 - I enjoy learning new technologies and take a metacognitive approach to problem-solving by recognizing what I need to learn, analyzing the situation, and applying targeted strategies to reach a solution.
 - Recently, I developed and deployed a personal portfolio website to showcase my projects and skills.
 [portfolio](https://portfolio-web-two-omega.vercel.app/)
-
-### 🚀 Things I do
-
-- **Full-Stack Developer** who strives to master the entire stack!
 
 ### 📬 Find me at
 
